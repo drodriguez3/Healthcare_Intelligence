@@ -1,0 +1,32 @@
+[
+  {
+    "id": "P01",
+    "title": "Authorization review",
+    "text": "Verify authorization records, service dates and applicable payer rules. Escalate missing or conflicting documentation to a specialist. Do not assume retroactive authorization is available.",
+    "answer": "Compare the authorization record with the service date and applicable payer rules. If documentation is missing or inconsistent, escalate to a specialist. Do not assume retroactive authorization is available."
+  },
+  {
+    "id": "P02",
+    "title": "Eligibility review",
+    "text": "Verify coverage at date of service using approved sources. Document discrepancies and route corrections for review.",
+    "answer": "Verify coverage at the date of service, document discrepancies, and route any correction for review."
+  },
+  {
+    "id": "P03",
+    "title": "Coding review",
+    "text": "Qualified coding staff must review documentation before any code change. Never change codes solely to obtain payment.",
+    "answer": "Route the claim to qualified coding staff to review documentation. Do not change codes solely to obtain payment."
+  },
+  {
+    "id": "P04",
+    "title": "Filing deadlines",
+    "text": "Verify submission history and payer-specific filing and appeal deadlines before taking action.",
+    "answer": "Check submission history and the applicable payer-specific deadlines."
+  },
+  {
+    "id": "P05",
+    "title": "Denial prioritization",
+    "text": "Prioritize using denied amount, verified deadlines and appeal eligibility. Assign owners and track actual recoveries. Age alone does not establish appeal eligibility.",
+    "answer": "Prioritize by denied amount, verified deadlines and appeal eligibility. Assign an owner and track actual recoveries. Age alone does not establish appeal eligibility."
+  }
+]

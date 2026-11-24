@@ -1,0 +1,4 @@
+facility,staffed_beds,occupied_beds,ed_wait_minutes,delayed_discharges,staffing_gap
+Demo Hospital North,200,188,142,38,12
+Demo Hospital South,150,120,78,17,7
+Demo Hospital West,180,153,95,24,15

@@ -1,0 +1,5 @@
+service,prior_volume,current_volume,prior_unit_cost,current_unit_cost
+Imaging,12000,14000,210,225
+Inpatient,3000,3300,8500,8900
+Emergency,8000,9200,650,680
+Outpatient surgery,2400,2500,3200,3450
